@@ -105,8 +105,6 @@ Application mobile de swipe pour découvrir des restaurants et leurs plats, insp
 │       └── user.ts              # Types utilisateur
 ├── assets/
 │   └── feedem_logo.svg          # Logo vectoriel
-└── scripts/
-    └── scrape-and-replace.js    # Script de scraping
 ```
 
 ## Prochaines étapes
