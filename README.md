@@ -1,6 +1,3 @@
-# FEED-EM
-Application Mobile 
-[README.md](https://github.com/user-attachments/files/23842750/README.md)
 # FEED'EM 🍔
 
 Application mobile de swipe pour découvrir des restaurants et leurs plats, inspirée de Tinder.
